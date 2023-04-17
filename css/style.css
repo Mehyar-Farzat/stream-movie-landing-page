@@ -118,15 +118,12 @@ header .toggle img{
     text-decoration: none;
 
 }
-
 .icon li a img{
     filter: invert(1);
     transform: scale(0.6);
     size: 30px;
     margin-right: 30px;
 }
-
-
 
 .container {
     display: flex;
@@ -151,12 +148,11 @@ header .toggle img{
     position: absolute;
     backface-visibility: hidden;
     padding: 65px 45px;
-    top: -40px;
+    top: -85px;
     right: -175px ;
      
   }
   
-
   .form_details {
     font-size: 25px;
     font-weight: 600;
@@ -228,9 +224,9 @@ header .toggle img{
   .loading {
     --speed-of-animation: 0.9s;
     --gap: 6px;
-    --first-color: #4c86f9;
-    --second-color: #49a84c;
-    --third-color: #f6bb02;
+    --first-color: #7F1323;
+    --second-color: #EA9C0A;
+    --third-color: #2D5249;
     --fourth-color: #f6bb02;
     --fifth-color: #2196f3;
     display: flex;
@@ -240,7 +236,7 @@ header .toggle img{
     gap: 6px;
     height: 100px;
     position: relative;
-    top: 232px;
+    top: 190px;
     right: 41px;
    }
    
